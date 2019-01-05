@@ -24,7 +24,7 @@ Inspired by the Athenian democracy, Open-Institutions aim to bring true democrac
 
 #### Daily automated assignement
 
-In this role-based system, the key component is the assignement procedure that is done every day. Each day, if the system need more validators or controllers, citizens are picked. To avoid high fee only one validator and one controller can be picked each day. We ensure the fairness of that behavior by randomly pick citizens.
+In this role-based system, the key component is the assignement procedure that is done every day. Each day, if the system need more validators, citizens are randomly picked. To avoid high fee only one validator can be picked each day.
 
 #### Randomly picked citizen
 
